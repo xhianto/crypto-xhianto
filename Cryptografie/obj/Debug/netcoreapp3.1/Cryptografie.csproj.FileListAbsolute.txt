@@ -33,3 +33,14 @@ C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Debug\netcoreapp3.1
 C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Debug\netcoreapp3.1\Cryptografie.pdb
 C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Debug\netcoreapp3.1\Cryptografie.genruntimeconfig.cache
 C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Debug\netcoreapp3.1\Cryptografie.csproj.CopyComplete
+C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\bin\Debug\netcoreapp3.1\Sodium.Core.dll
+C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsodium.so
+C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsodium.so
+C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsodium.dylib
+C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libsodium.dll
+C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libsodium.dll
+C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Debug\netcoreapp3.1\Cryptografie.csprojAssemblyReference.cache
+C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Debug\netcoreapp3.1\Razor\Views\Home\Challange.cshtml.g.cs
+C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Debug\netcoreapp3.1\Razor\Views\Home\Solve.cshtml.g.cs
