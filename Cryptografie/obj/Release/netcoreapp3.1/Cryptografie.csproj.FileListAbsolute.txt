@@ -29,7 +29,6 @@ C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Release\netcoreapp3
 C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Release\netcoreapp3.1\Cryptografie.TagHelpers.input.cache
 C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Release\netcoreapp3.1\Cryptografie.TagHelpers.output.cache
 C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Release\netcoreapp3.1\Cryptografie.RazorCoreGenerate.cache
-C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Release\netcoreapp3.1\Razor\Views\Home\Challange.cshtml.g.cs
 C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Release\netcoreapp3.1\Razor\Views\Home\Solve.cshtml.g.cs
 C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
@@ -44,3 +43,5 @@ C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Release\netcoreapp3
 C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Release\netcoreapp3.1\Cryptografie.dll
 C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Release\netcoreapp3.1\Cryptografie.pdb
 C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Release\netcoreapp3.1\Cryptografie.genruntimeconfig.cache
+C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Release\netcoreapp3.1\Razor\Views\Home\Challenge.cshtml.g.cs
+C:\Users\xhian\source\repos\CryptografieASP\Cryptografie\obj\Release\netcoreapp3.1\Razor\Views\Home\ChallengeNotAvailable.cshtml.g.cs

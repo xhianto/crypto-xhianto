@@ -1,13 +1,13 @@
 ﻿@model CryptedMessage
 @{
-    ViewData["Title"] = "Challange";
+    ViewData["Title"] = "Challenge";
 }
 <div>
     <h3>kid:</h3>
     <p>@Model.kid</p>
     <h3>key:</h3>
     <p>@Model.key</p>
-    <h3>challange:</h3>
+    <h3>challenge:</h3>
     <p>@Model.challenge</p>
     <h3>nonce:</h3>
     <p>@Model.nonce</p>
@@ -17,7 +17,7 @@
         <p>@ViewBag.Plaintext</p>
     </div>
     <div>
-        <a href="@ViewBag.Link" target="_blank" class="btn-secondary btn-sm">Check if challange exist</a>
+        <a href="@ViewBag.Link" target="_blank" class="btn-secondary btn-sm">Check if challenge exist</a>
     </div>
     <form method="post" asp-controller="Home" asp-action="Solve" style="margin: 10px 0px">
         <input type="hidden" name="kid" value="@Model.kid" />
@@ -25,7 +25,7 @@
         <input type="hidden" name="challange" value="@Model.challenge" />
         <input type="hidden" name="nonce" value="@Model.nonce" />
         <input type="hidden" name="plaintext" value="@ViewBag.Plaintext" />
-        <button class="btn-danger btn-lg" type="submit">Solve Challange</button>
+        <button class="btn-danger btn-lg" type="submit">Solve Challenge</button>
     </form>
 </div>
 
