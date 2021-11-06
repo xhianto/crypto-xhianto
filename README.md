@@ -35,3 +35,17 @@ The appliction should be running, you should be able to check it on a web-browse
 http://localhost:<port>
 ````
 *\<port\> = port at previous step*
+
+## Location of codes
+
+Most of the codes are located in the controller  
+*crypto-xhianto/Cryptografie/Controllers/HomeController.cs*  
+Models are in the directory  
+*crypto-xhianto/Cryptografie/Models/*  
+Views are locate at  
+*crypto-xhianto/Cryptografie/Views/Home/*
+
+## Website
+
+This appliction is also hosted on Azure.  
+[Link](https://cryptografie.azurewebsites.net/)
