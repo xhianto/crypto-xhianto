@@ -51,7 +51,7 @@ jobs:
       with:
         context: .
         push: true
-        tags: ${{ secrets.DOCKERHUB_USERNAME }}/Cryptografie:latest
+        tags: ${{ secrets.DOCKERHUB_USERNAME }}/cryptografie:latest
         
   azure:
   
