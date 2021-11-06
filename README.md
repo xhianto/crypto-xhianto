@@ -48,4 +48,4 @@ Views are locate at
 ## Website
 
 This appliction is also hosted on Azure.  
-[Link](https://cryptografie.azurewebsites.net/)
+[https://cryptografie.azurewebsites.net/](https://cryptografie.azurewebsites.net/)
