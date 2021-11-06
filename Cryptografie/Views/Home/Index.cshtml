@@ -5,10 +5,9 @@
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <a class="btn-secondary btn-lg" asp-controller="Home" asp-action="Challenge">Create a new challenge</a>
-    <h3>I have a challenge ID (kid)</h3>
+    <h3>I have a challenge ID</h3>
     <form method="post" asp-controller="Home" asp-action="Challenge" style="margin: 10px 0px">
-        <input type="number" name="kid" />
+        <input type="number" name="kid" placeholder="kid" />
         <button class="btn-secondary" type="submit">Retrieve challenge</button>
     </form>
-    <p>Test met CICD</p>
 </div>
