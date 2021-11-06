@@ -24,10 +24,10 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
   
-  docker:
+  Docker:
     
     runs-on: ubuntu-latest
-    needs: build
+    needs: Test
     
     steps:
     -
@@ -53,10 +53,10 @@ jobs:
         push: true
         tags: ${{ secrets.DOCKERHUB_USERNAME }}/cryptografie:latest
         
-  azure:
+  Azure:
   
     runs-on: ubuntu-latest
-    needs: build
+    needs: Test
     
     steps:
     - name: Login to Azure
